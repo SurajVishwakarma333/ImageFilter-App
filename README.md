@@ -7,4 +7,4 @@ https://user-images.githubusercontent.com/101108540/171151662-66ad6a42-0420-4cdc
 
 
 
-Note: The app will take some time not some actually it will be going to take alot of time to load though we are using bitmap and it takes time to decode the image to the bitmap.
+• Note: The app will take some time not some actually it will be going to take alot of time to load though we are using bitmap and it takes time to decode the image to the bitmap.
